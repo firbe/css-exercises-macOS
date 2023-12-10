@@ -1,0 +1,19 @@
+.para {
+    background-color: #FFBAD2;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#ID1 {
+    color: hsl(241, 91%, 45%);
+    font-size: 36px;
+}
+
+.para.cooler {
+    font-size: 24px;
+}
+
+#ID2 {
+    background-color: rgb(124,252,0);
+    font-size: 24px;
+    font-weight: 700;
+}
